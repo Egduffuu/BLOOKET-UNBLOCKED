@@ -9,4 +9,4 @@ here is the link: https://egduffuu.github.io/BLOOKET-UNBLOCKED
 
 ## KNOWN ISSUES (IMPORTANT)
 
-GOLD QUEST CHEATS DO NOT LOAD!!! --- use swagging-post instead: https://github.com/swagging-post/Blooket-Cheat-GUI/blob/main/cheats/gui/gui.min.js
+GOLD QUEST CHEATS DO NOT LOAD!!! --- use konz instead: https://github.com/005Konz/Blooket-Cheats
